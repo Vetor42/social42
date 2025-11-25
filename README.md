@@ -12,7 +12,7 @@ Open Source: Nosso código é auditável. A comunidade sabe exatamente como a pl
 
 Alcance Orgânico Real: Se o conteúdo é bom, ele é entregue. Não vendemos "boosts" para furar a fila da relevância.
 
-Pessoas Não São Produtos: O uso é gratuito para indivíduos. Nossa monetização é B2B (ferramentas de gestão para empresas), garantindo que seus dados nunca sejam a mercadoria.
+Pessoas Não São Produtos: O uso é gratuito para indivíduos. Nossa monetização será B2B (ferramentas de gestão e assinaturas para empresas), garantindo que seus dados nunca sejam a mercadoria.
 
 ✨ Principais Recursos (Planejados)
 
