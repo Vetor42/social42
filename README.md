@@ -1,24 +1,24 @@
 <div align="center">
-<br />
-<h1>Social42 🚀</h1>
-<h3>Sua Atenção Não Está à Venda.</h3>
-<p>A primeira rede social de alcance 100% orgânico, código aberto e transparência radical.</p>
-
-<p>
-<a href="https://www.google.com/search?q=https://github.com/Vetor42/social42/blob/main/LICENSE">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/License-AGPLv3-blue.svg" alt="License AGPLv3" />
-</a>
-<a href="https://react.dev/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Frontend-React_%257C_Vite-61DAFB.svg" alt="React" />
-</a>
-<a href="https://vetor42.com.br">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Maintained_by-Vetor42-3d5c28.svg" alt="Vetor42" />
-</a>
-<a href="#">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow.svg" alt="Status" />
-</a>
-</p>
-<br />
+  <br />
+  <h1>Social42 🚀</h1>
+  <h3>Sua Atenção Não Está à Venda.</h3>
+  <p>A primeira rede social de alcance 100% orgânico, código aberto e transparência radical.</p>
+  
+  <p>
+  <a href="https://github.com/Vetor42/social42/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-AGPLv3-blue" alt="License AGPLv3" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/Frontend-React_%257C_Vite-61DAFB" alt="React" />
+  </a>
+  <a href="https://vetor42.com.br">
+    <img src="https://img.shields.io/badge/Maintained_by-Vetor42-3d5c28" alt="Vetor42" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow" alt="Status" />
+  </a>
+  </p>
+  <br />
 </div>
 
 📜 O Manifesto
